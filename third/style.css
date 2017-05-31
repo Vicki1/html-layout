@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.grey{
+    background: #d3d9e2;
+    width: 100%;
+    height: 14vh;
+}
+
+.spacer{
+    width: 100vw;
+    height: 2vh;
+}
+.small_blue {
+    height: 10vh;
+    width: 10vh;
+    background:#699fef;
+   position: relative;
+   margin-left: 2vw;
+}
+
+.white{
+    background: #fff;
+    width: 100%;
+    height: 30vh;
+    text-align: center;
+}
+ p {
+     margin: 7vw;
+     font-family: 'Roboto', sans-serif;
+ }
+
+.big_blue{
+    background: #699fef;
+    width: 100%;
+    height: 14vh;
+}
+.teal{
+    background:#5addca;
+    width: 100%;
+    height: 14vh;
+}
+.green{
+    background: #c2ea81;
+    width: 100%;
+    height: 14vh;
+}
+.yellow{
+    background: #f7ed2e;
+    width: 100%;
+    height: 14vh;
+}
