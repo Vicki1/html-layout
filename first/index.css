@@ -1,0 +1,23 @@
+body{
+    background:#dbdee0;
+}
+
+.darkGrey{
+    height: 100px;
+    width: 100%;
+    background: #4d4f51;
+}
+
+.white{
+   height: 480px; 
+   width: 480px; 
+   background: white;
+   margin: auto;
+}
+
+.black{
+    height: 150px;
+    width: 480px;
+    background: black;
+    margin: auto;
+}
